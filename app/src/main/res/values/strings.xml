@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleCounter</string>
+    <string name="add_value">Add1</string>
+    <string name="Value">1</string>
+</resources>
